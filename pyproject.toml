@@ -1,7 +1,20 @@
 [project]
 name = "forecasting-inventory-alert-system"
+authors = [
+    { name = "Andrew V. Victorio", email = "andrew.avv03@gmail.com" }
+]
+keywords = [
+    "forecasting",
+    "inventory management",
+    "data science",
+    "machine learning",
+    "café operations",
+    "demand forecasting",
+    "procurement",
+    "time series analysis"
+]
 version = "0.1.0"
-description = "Add your description here"
+description = "An end-to-end ingredient demand forecasting & inventory alert system for a café, designed from raw transactional data to procurement signals"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
